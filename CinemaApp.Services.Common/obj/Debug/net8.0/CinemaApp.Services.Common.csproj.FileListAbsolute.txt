@@ -9,3 +9,4 @@ C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.Common\obj
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.Common\obj\Debug\net8.0\refint\CinemaApp.Services.Common.dll
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.Common\obj\Debug\net8.0\CinemaApp.Services.Common.pdb
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.Common\obj\Debug\net8.0\ref\CinemaApp.Services.Common.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.Common\obj\Debug\net8.0\CinemaApp.Services.Common.sourcelink.json

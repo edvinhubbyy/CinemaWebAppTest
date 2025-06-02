@@ -2,6 +2,8 @@ using CinemaApp.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using System;
+using CinemaApp.Web.Services.Interfaces;
 
 public class Program
 {
@@ -34,7 +36,10 @@ public class Program
                 options.Password.RequireLowercase = false;
             })
             .AddEntityFrameworkStores<CinemaAppDbContext>();
+
         builder.Services.AddControllersWithViews();
+        builder.Services.AddScoped<IMovieService, MovieService>();
+
 
         var app = builder.Build();
 

@@ -384,3 +384,4 @@ C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Tests\bin\Debug
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Tests\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Tests\obj\Debug\net8.0\CinemaApp.Web.Tests.sourcelink.json

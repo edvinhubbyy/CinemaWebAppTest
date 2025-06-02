@@ -15,3 +15,4 @@ C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.AutoMappin
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.AutoMapping\obj\Debug\net8.0\refint\CinemaApp.Services.AutoMapping.dll
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.AutoMapping\obj\Debug\net8.0\CinemaApp.Services.AutoMapping.pdb
 C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.AutoMapping\obj\Debug\net8.0\ref\CinemaApp.Services.AutoMapping.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Services.AutoMapping\obj\Debug\net8.0\CinemaApp.Services.AutoMapping.sourcelink.json
