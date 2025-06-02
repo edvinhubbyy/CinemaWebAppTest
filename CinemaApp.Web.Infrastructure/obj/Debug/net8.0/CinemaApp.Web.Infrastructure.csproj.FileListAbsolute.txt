@@ -1,0 +1,15 @@
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.deps.json
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.pdb
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.GCommon.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.GCommon.pdb
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaAp.492A892C.Up2Date
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\refint\CinemaApp.Web.Infrastructure.dll
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.pdb
+C:\Users\metod\Desktop\CinemaWeb-May-2025-Skeleton\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\ref\CinemaApp.Web.Infrastructure.dll
