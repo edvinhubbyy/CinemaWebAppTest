@@ -21,7 +21,6 @@ namespace CinemaApp.Data
             base.OnModelCreating(builder);
 
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
-            builder.ApplyConfiguration(new MovieConfiguration());
         }
     }
 }
