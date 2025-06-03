@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0104AE5A-487F-4602-9EB1-32EDB014A0A0}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp.services.core\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0104AE5A-487F-4602-9EB1-32EDB014A0A0}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD1F1DF-3F4F-432E-9BBF-1277081197F6}|CinemaApp.GCommon\\CinemaApp.GCommon.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp.gcommon\\entityconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD1F1DF-3F4F-432E-9BBF-1277081197F6}|CinemaApp.GCommon\\CinemaApp.GCommon.csproj|solutionrelative:cinemaapp.gcommon\\entityconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0104AE5A-487F-4602-9EB1-32EDB014A0A0}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp.services.core\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0104AE5A-487F-4602-9EB1-32EDB014A0A0}|CinemaApp.Services.Core\\CinemaApp.Services.Core.csproj|solutionrelative:cinemaapp.services.core\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{17F82044-4AD7-4113-94C9-7E24C28D5F5D}|CinemaApp\\CinemaApp.Web.csproj|solutionrelative:cinemaapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|c:\\users\\metod\\desktop\\cinemaweb-may-2025-skeleton\\cinemaapp.web.viewmodels\\movie\\movieforminputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D77A74-05B7-4F4F-BB89-E20CBAB4780F}|CinemaApp.Web.ViewModels\\CinemaApp.Web.ViewModels.csproj|solutionrelative:cinemaapp.web.viewmodels\\movie\\movieforminputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Services\\Interfaces\\IMovieService.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Services\\Interfaces\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Services\\Interfaces\\IMovieService.cs",
-              "RelativeToolTip": "CinemaApp\\Services\\Interfaces\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:20:56.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Services\\MovieService.cs",
-              "RelativeToolTip": "CinemaApp\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:20:44.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Program.cs",
-              "RelativeDocumentMoniker": "CinemaApp\\Program.cs",
-              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Program.cs",
-              "RelativeToolTip": "CinemaApp\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:02:47.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Views\\Movie\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Index.cshtml",
-              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Views\\Movie\\Index.cshtml",
-              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T15:24:25.4Z",
-              "EditorCaption": ""
+              "Title": "EntityConstants.cs",
+              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.GCommon\\EntityConstants.cs",
+              "RelativeDocumentMoniker": "CinemaApp.GCommon\\EntityConstants.cs",
+              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.GCommon\\EntityConstants.cs",
+              "RelativeToolTip": "CinemaApp.GCommon\\EntityConstants.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:11:41.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "CinemaApp\\Controllers\\MovieController.cs",
               "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Controllers\\MovieController.cs",
               "RelativeToolTip": "CinemaApp\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:22:28.948Z",
+              "WhenOpened": "2025-06-03T19:06:33.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieFormInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "RelativeToolTip": "CinemaApp.Web.ViewModels\\Movie\\MovieFormInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:26:51.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Views\\Movie\\Add.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp\\Views\\Movie\\Add.cshtml",
+              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Views\\Movie\\Add.cshtml",
+              "RelativeToolTip": "CinemaApp\\Views\\Movie\\Add.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T15:24:53.606Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CinemaApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwC0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T15:19:33.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.Services.Core\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.Services.Core\\Services\\MovieService.cs",
+              "RelativeToolTip": "CinemaApp.Services.Core\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:13:19.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.Services.Core\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "CinemaApp.Services.Core\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\metod\\Desktop\\CinemaWeb-May-2025-Skeleton\\CinemaApp.Services.Core\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "CinemaApp.Services.Core\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:12:22.604Z"
             }
           ]
         }
