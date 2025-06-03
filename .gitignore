@@ -1,0 +1,23 @@
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio working folders
+.vs/
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Optional: ignore config or environment files you don’t want tracked
+*.env
+*.db
+*.bak
+*.etc
